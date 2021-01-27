@@ -80,7 +80,7 @@ def webhook():
                         target_docs = []
                         input_tokens = set()
                         target_tokens = set()
-                        for line in pairs[:726]:
+                        for line in pairs[:100]:
                           input_doc, target_doc = line[0], line[1]
                           # Appending each input sentence to input_docs
                           input_docs.append(input_doc)
@@ -141,7 +141,7 @@ def webhook():
                         print(input_docs[:5])
 
                         #Dimensionality
-                        dimensionality = 256
+                        dimensionality = 100
                         #The batch size and number of epochs
                         batch_size = 10
                         epochs = 100
