@@ -1,12 +1,12 @@
 chatterbot
 git+https://github.com/gunthercox/chatterbot-corpus.git#egg=chatterbot-corpus
-Flask
-Jinja2
+flask>=1.0.0
+Jinja2>=2.10.1
 MarkupSafe
-Werkzeug
+werkzeug>=0.15.3
 click
 gunicorn
 itsdangerous
-requests
+requests>=2.20.0
 spacy
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.0/en_core_web_sm-2.2.0.tar.gz
