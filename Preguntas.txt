@@ -1,136 +1,757 @@
-qué es la democracia
-cómo es la democracia
-la democracia es
-democracia 
-que hace la democracia
-para qué la democracia 
-porqué la democracia
-es la democracia
-la democracia será
-qué es justicia
-porqué la justicia
-para qué la justicia
-qué es justicia
-en que se basa la justicia
-la justicia
-cree en la justicia
-existe la justicia
-le gusta la justicia
-ama la justicia
-qué es derecho
-qué es derecho
-cómo es el derecho
-el derecho es
-derecho 
-que hace el derecho
-para qué el derecho 
-porqué el derecho
-es el derecho
-el derecho será
-el derecho fue
-cuál es la función del ministerio de justicia
-qué es ministerio de justicia
-porqué ministerio de justicia
-para qué ministerio de justicia
-qué es el ministerio de justicia
-base del ministerio de justicia
-es el ministerio de justicia
-cree en el ministerio de justicia
-existe el ministerio de justicia
-le gusta el ministerio de justicia
-busca ministerio de justicia
-entidades administrativas de justicia
-cuales son entidades administrativas de justicia
-integran las entidades administrativas de justicia
-forman entidades administrativas de justicia 
-definen entidades administrativas de justicia 
-son entidades administrativas de justicia 
-conforman entidades administrativas de justicia 
-establecen entidades administrativas de justicia 
-hacen entidades administrativas de justicia 
-son parte entidades administrativas de justicia 
-como son entidades administrativas de justicia 
-qué es el inpec
-qué es inpec
-cómo es el inpec
-el inpec es
-inpec 
-que hace el inpec
-para qué el inpec 
-porqué el inpec
-es el inpec
-el inpec será
-el inpec fue
-qué es andj
-cómo es la andj
-la andj es
-la andj 
-que hace la andj
-para qué la andj 
-porqué la andj
-es la andj
-la andj será
-la andj fue
-qué es la andj
-qué es uspec
-qué es andj
-cómo es uspec
-la uspec es
-la uspec 
-que hace la uspec
-para qué la uspec 
-porqué la uspec
-es la uspec
-la uspec será
-la uspec fue
-quiénes administran justicia en el país
-administran justicia en el país
-ejercen justicia en el país
-manejan justicia en el país
-dictan justicia en el país
-hacen justicia en el país
-son justicia en el país
-componen la justicia en el país
-justicia en el país la ejerce
-quienes ejercen justicia en el país
-cuales son justicia en el país
-por quienes justicia en el país
-determinan justicia en el país
-quienes administarn justicia en el país
-qué hace superintendencia industria y comercio
-qué resuelve superintendencia industria y comercio
-hace superintendencia industria y comercio
-resuelve superintendencia industria y comercio
-qué media superintendencia industria y comercio
-qué defiende superintendencia industria y comercio
-media la superintendencia industria y comercio
-defiende la superintendencia industria y comercio
-vela por superintendencia industria y comercio
-cuida superintendencia industria y comercio
-qué cuida superintendencia industria y comercio
-a quienes defiende superintendencia industria y comercio
-qué busca superintendencia industria y comercio
-qué hace superintendencia financiera
-qué resuelve superintendencia financiera
-hace superintendencia financiera
-resuelve superintendencia financiera
-qué media superintendencia financiera
-qué defiende superintendencia financiera
-media la superintendencia financiera
-defiende la superintendencia financiera
-vela por superintendencia financiera
-cuida superintendencia financiera
-qué cuida superintendencia financiera
-a quienes defiende superintendencia financiera
-qué busca superintendencia financiera
-qué resuelve la superintendencia de sociedades
-qué soluciona superintendencia de sociedades
-soluciona superintendencia superintendencia de sociedades
-hace superintendencia superintendencia de sociedades
-resuelve superintendencia superintendencia de sociedades
-qué media superintendencia de sociedades
-qué aclara superintendencia de sociedades
-media la superintendencia superintendencia de sociedades
-aclara la superintendencia de sociedades
-que conoce la superintendencia de sociedades
-conoce la superintendencia de sociedades
+sí.
+bueno.
+esta bien.
+ok.
+claro qué si.
+hola
+qué es consultas de partidos.
+consultas de partidos.
+es consultas de partidos.
+definicion de consultas de partidos.
+la consultas de partido es
+puedo participar en las opiniones.
+se puede participar en las opiniones.
+participar en las opiniones.
+puede participar en las opiniones.
+donde se puede votar.
+se puede votar.
+puede votar en.
+en donde se puede votar.
+cuantos ciudadanos pueden sufragar.
+qué numero ciudadanos pueden sufragar.
+ciudadanos qué pueden sufragar.
+cuál es el numero de ciudadanos pueden sufragar.
+la consulta se pueden hacer a nivel nacional.
+consulta se puede hacer a nivel nacional.
+se puede hacer consultas a nivel nacional.
+hacer consultas a nivel nacional.
+cuantos movimientos participan en las opiniones.
+movimientos qué participan en las opiniones.
+numero de movimientos qué participan en las opinones.
+tipos de normas aplica paran las consultas.
+normas aplica para las consultas.
+aplica normas para las consultas.
+tipos de normas qué aplica en las consultas.
+las normas aplica en las consultas.
+quién fija los topes de desembolsos.
+fija los topes de desembolso.
+los topes de desembolso se fija.
+se fija los topes de desembolso.
+quién determina qué candidato ganó.
+determina qué candidato ganó.
+se determina qué candidato ganó.
+candidato gano quien determina.
+se reciben reposición de gastos.
+reposicion de gastos se recibe.
+reposicion de gastos.
+cuándo inicia el escrutinio.
+se inicia el escrutinio.
+inicia el escrutinio.
+el escrutinio se inicia.
+cómo esta conformado el plan de bienestar.
+esta conformado el plan de bienestar.
+conformado el plan de bienestar.
+el plan de bienestar esta conformado.
+el plan de bienestar se conforma.
+quién define los gasto de bienestar.
+define los gastos de bienestar.
+los gastos de bienestar se define.
+gastos de bienestar se define.
+qué hace la comisión de personal.
+está conformado el congreso.
+el congreso esta conformado.
+conformado el congreso.
+alguna de las ramas del poder.
+una de las ramas del poder.
+otra ramas del poder.
+es una ramas del poder.
+cómo esta conformado el congreso.
+esta conformado el congreso
+conformado el congreso es.
+una parte del congreso es.
+parte del congreso es.
+es parte del congreso.
+parte del congreso.
+cuando culmina el cuatrenio.
+culmina el cuatrenio.
+se culmina el cuatrenio.
+el cuatrenio culmina.
+qué es una legislatura.
+es una legislatura.
+una legislatura es.
+la legislatura es.
+qué tiempo comprende la legislatura.
+tiempo comprende la legislatura.
+comprende la legislatura.
+la legislatura comprende.
+qué es el senado.
+es el senado.
+el senado es.
+senado es.
+es la república.
+la república.
+la república qué es.
+la república es.
+Qué es una elección
+Qué significa elección
+Qué quiere decir elección
+Cómo es el proceso de una elección
+De qué forma  es el proceso de una elección
+Cuáles son las clases de elecciones
+De que forma son las clases de elecciones
+cómo son las clases de elecciones
+Qué es una elección ordinaria
+Qué significa elección ordinaria
+Qué quiere decir elección ordinaria
+A Quién se elige en una elección ordinaria
+Quiénes se eligen en una elección ordinaria
+Qué es una elección atípica
+Qué significa elección atípica
+Qué quiere decir elección atípica
+Para qué se hace una elección atípica
+Con qué fin se hace una elección atípica
+A razón de qué se hace una elección atípica
+Con que finalidad se hace una elección atípica
+Cómo se originan una elección atípica
+De qué manera se originan una elección atípica
+Por qué se originan una elección atípica
+A razón de qué se originan una elección atípica
+Para qué corporaciones aplica una elección atípica
+A qué corporaciones aplica una elección atípica
+Qué significa Participación Ciudadana
+Qué quiere decir Participación Ciudadana
+Cuál es la ideología del Partido MIRA
+Qué es la ideología del Partido MIRA
+Cómo se maneja el Partido MIRA
+De que forma se maneja el Partido MIRA
+Cuántos simpatizantes tiene el Partido MIRA
+Qué cantidad de simpatizantes tiene el Partido MIRA
+Qué número de simpatizantes tiene el Partido MIRA
+Qué es una elección
+Qué significa elección
+Qué quiere decir elección
+Quién otorga el reconocimiento a los partidos políticos.
+Cuáles son los requisitos para otorgar personería jurídica
+Qué son los requisitos para otorgar personería jurídica
+Cuál es la excepción para otorgar personería jurídica
+Qué es un presidente de la república de Colombia
+Qué significa presidente de la república de Colombia
+Qué quiere decir presidente de la república de Colombia
+Cómo se elige un presidente
+De que forma se elige un presidente
+Cuál se elige un presidente
+Cuánto dura su periodo del presidente
+Qué cantidad dura su periodo del presidente
+Cuánto dura su periodo del vicepresidente
+Qué es un vicepresidente de la república de Colombia
+Qué significa vicepresidente de la república de Colombia
+Qué quiere decir vicepresidente de la república de Colombia
+Cómo se elige un vicepresidente
+De qué manera se elige un vicepresidente
+el derecho es una categoría histórica
+es una categoría histórica el derecho
+la política es una categoría histórica
+es una categoría histórica la política
+el estado es una categoría histórica
+es una categoría histórica el estado
+Cuáles son los elementos del estado
+Cómo son los elementos del estado
+De que forma son los elementos del estado
+Entre Quiénes se dan las relaciones sociales de producción
+Para Quiénes se dan las relaciones sociales de producción
+Cómo está compuesta la base social
+De que forma está compuesta la base social
+De que manera está compuesta la base social
+Qué es la política
+Qué significa la política
+Qué quiere decir la política
+Qué es el poder
+Qué significa el poder
+Qué quiere decir el poder
+Cómo está conformada la superestructura del estado
+De que forma está conformada la superestructura del estado
+Qué razones producen lucha de clases
+Para qué producen la lucha de clases
+Con que fin producen la lucha de clases
+A razón de qué producen la lucha de clases
+Con que finalidad producen la lucha de clases
+Qué es la ciencia política
+Qué significa ciencia política
+Qué quiere decir ciencia política
+defiende ejercito nacional
+que hace ejercito nacional
+para que ejercito nacional
+mintransporte
+que define mintransporte
+define mintransporte
+mintransporte que hace
+para que mintransporte
+mintransporte es
+que es ministerio de minas
+que dirige ministerio de minas
+ministerio de minas se encarga
+ministerio de minas
+ministerio de minas se encarga
+fuerza aérea  para que
+que es fuerza aérea
+que es la fuerza aérea
+que hace la fuerza aérea
+fuerza aérea
+ayuda de la fuerza aérea
+ministerio relaciones exteriores lo encabeza
+el ministerio relaciones exteriores lo encabeza
+al ministerio de relaciones exteriores lo dirige
+encabeza ministerio de relaciones exteriores
+quien dirige ministerio de relaciones exteriores
+quien dirige al ministerio de relaciones exteriores
+al ministerio de relaciones exteriores lo dirige
+al ministerio relaciones exteriores lidera
+define los programas económicos
+los programas económicos los hace
+ministerio del trabajo
+el ministerio del trabajo se encarga de 
+ministerio del trabajo  
+el ministerio del trabajo ayuda a
+el ministerio del trabajo ayuda
+que formula el ministerio del trabajo
+que es la armada
+la armada es
+como se conoce a la armada
+se conoce a la armada
+que es la armada
+el ministerio de defensa
+ministerio de defensa
+que hace ministerio de defensa
+el ministerio de defensa es
+definición del ministerio de defensa
+ministerio de defensa es
+cómo se elige en colombia
+se elige en colombia
+en colombia se elige
+colombia elige
+la eleccion se elige
+que legaliza la elección
+que es el dafp
+dafp
+dafp es
+que hace el dafp 
+que es el departamento de planeación nacional 
+planeación nacional es
+planeación nacional
+que hace la democracia.
+para qué la democracia.
+porqué la democracia.
+es la democracia.
+la democracia será.
+qué es justicia.
+porqué la justicia.
+para qué la justicia.
+es justicia.
+en que se basa la justicia.
+la justicia.
+cree en la justicia.
+existe la justicia.
+le gusta la justicia.
+justicia.
+la justicia es.
+qué es derecho.
+es derecho.
+cómo es el derecho.
+el derecho es.
+derecho.
+que hace el derecho.
+para qué el derecho.
+porqué el derecho.
+es el derecho.
+el derecho será.
+el derecho fue.
+qué defiende la superintendencia financiera.
+qué resuelve la superintendencia financiera.
+defiende superintendencia financiera.
+es una reforma constitucional.
+una reforma constitucional qué es.
+una reforma constitucional es.
+reforma constitucional.
+reforma constitucional qué es.
+reforma constitucional es.
+la reforma constitucional.
+la reforma constitucional es.
+la reforma constitucional qué es.
+quienes pueden reformar la constitución.
+pueden reformar la constitución.
+reformar la constitución quienes pueden .
+reformar la constitución pueden.
+reformar la constitución.
+reformar la constitución pueden quienes.
+qué es un referendo.
+es un referendo.
+un referendo qué es.
+un referendo es.
+qué hace un referendo.
+un referendo hace.
+hace un referendo.
+cuáles son formas de participación democrática.
+son formas de participación democrática.
+formas de participación democrática cuáles son.
+formas de participación democrática son cuáles.
+qué formas de participación democrática hay.
+formas de participación democrática hay.
+algunas formas de participación democrática.
+algunas formas de participación democrática son.
+la cámara de representantes tiene cuantas comisiones.
+comisiones de la cámara de representantes.
+las comisiones de la cámara de representantes.
+comisiones de la cámara de representantes son.
+las comisiones de la cámara de representantes son.
+qué es el sistema pensional.
+es el sistema pensional.
+el sistema pensional.
+el sistema pensional qué es.
+el sistema pensional es.
+el sistema pensional es qué.
+sistema pensional.
+qué es un sistema pensional.
+cuáles son los regímenes pensionales.
+son los regímenes pensionales.
+los regímenes pensionales cuáles son.
+los regímenes pensionales son.
+regímenes pensionales cuáles son.
+regímenes pensionales son.
+qué regímenes pensionales hay.
+regímenes pensionales que hay.
+regímenes pensionales.
+los regímenes pensionales.
+qué es extradición.
+es extradición.
+la extradición qué es.
+la extradición es.
+qué es la extradición.
+es la extradición.
+la extradición.
+los extrangeros en votaciones participan.
+encarcelados pueden elegir.
+encerrados pueden elegir.
+los encerrados pueden elegir.
+pueden elegir los encerrados.
+los encerrados eligen.
+cómo programan los eventos.
+cómo se programan los eventos.
+los eventos se programan.
+se programan los eventos.
+cuanto cuesta las elecciones.
+qué cuesta las elecciones.
+qué cuestan las elecciones.
+el costo de las elecciones.
+cuál es el costo de las elecciones.
+las elecciones cuestan.
+quien financia los plebicitos.
+los plebicitos los financia.
+financia los plebicitos.
+plebicitos son financiados
+se financia los plebicitos.
+qué colaboración presta la organización electoral.
+presta la organización electoral.
+qué presta la organización electoral.
+la organización electoral presta.
+organización electoral presta.
+qué son elecciones ordinaria.
+son elecciones ordinarias.
+elecciones ordinarias son.
+las elecciones ordinarias son.
+es una faccion politica.
+una faccion politica es.
+faccion politica es.
+principales funciones de los partidos.
+las principales funciones de los partidos.
+funciones principales de los partidos.
+los partidos y sus funciones.
+funciones de partidos.
+funciones partidos.
+qué es un sistema de partidos.
+es un sistema de partidos.
+un sistema de partidos.
+un sistema de partidos es.
+sistema de partidos es.
+qué es un sistema electoral.
+es un sistema electoral.
+un sistema electoral.
+un sistema electoral es.
+un sistema electoral qué es.
+qué efectos microeconómicos tiene la corrupción.
+cuál efectos microeconómicos tiene la corrupción.
+efectos microeconómicos qué tiene la corrupción.
+qué efectos tiene la corrupción en microeconómia.
+cómo son los efectos microeconómicos tiene la corrupción.
+efectos microeconómicos por corrupción.
+qué efectos macroeconómicos tiene la corrupción.
+es efectos macroeconómicos tiene la corrupción.
+cuáles efectos macroeconómicos tiene la corrupción.
+un efecto macroeconómico por la corrupción.
+efectos macroeconómicos por la corrupción.
+es una alcaldia.
+una alcaldia es.
+alcaldia es.
+alcaldia.
+la alcaldia.
+la alcaldia es.
+qué es el parlamento.
+es el parlamento.
+el parlamento es.
+parlamento es.
+qué son las leyes.
+son las leyes.
+las leyes son.
+leyes son.
+son leyes.
+leyes es.
+qué es un acto legislativo.
+es un acto legislativo.
+un acto legislativo es.
+acto legislativo es.
+acto legislativo es.
+es acto legislativo.
+cuáles son los cuatro debates.
+son los cuatro debates.
+los cuatro debates son.
+cuatro debates son
+qué es un proyecto de ley.
+es un proyecto de ley.
+un proyecto de ley es.
+proyecto de ley es.
+Se puede modificar un calendario electoral
+Se permite modificar un calendario electoral
+Qué es el calendario electoral
+Qué significa el calendario electoral
+Qué quiere decir el calendario electoral
+Qué documento debo presentar para votar
+Cuál documento debo presentar para votar
+Se permite  votar con contraseña
+Se puede votar con contraseña
+Pueden votar todas las personas qué están en las cárceles del país
+Se permite votar todas las personas qué están en las cárceles del país
+Qué es la tarjeta electoral
+Qué significa tarjeta electoral
+Qué quiere decir tarjeta electoral
+Qué pasa si el ciudadano se equivoca al marcar la tarjeta electoral
+Qué sucede si el ciudadano se equivoca al marcar la tarjeta electoral
+Quiénes pueden ingresar al cubículo con acompañante
+Cuándo un voto es nulo
+En qué momento un voto es nulo
+Qué son los votos válidos
+Cuáles los votos válidos
+Qué significa votos válidos
+Qué quiere decir votos válidos
+Qué no hace parte de los votos válidos
+Qué no son votos válidos
+Qué es la tarjeta no marcada
+Qué significa tarjeta no marcada
+Qué quiere decir tarjeta no marcada
+Qué es la tarjeta no utilizada
+Qué significa tarjeta no utilizada
+Qué significa fenómenos sociales
+Qué quiere decir fenómenos sociales
+Cuáles son las leyes qué rige el mundo objetivo
+Qué son las leyes qué rige el mundo objetivo
+Qué es ley
+Qué significa ley
+Qué quiere decir ley
+Por qué se caracterizan las leyes
+Cómo se caracterizan las leyes
+Qué son clases
+Cuáles son las clases
+Qué significa clases
+Qué quiere decir clases
+Qué se entiende por capa social
+De que manera se entiende capa social
+Qué significa capa social
+Qué quiere decir capa social
+Qué son clases fundamentales
+Qué significa clases fundamentales
+Qué quiere decir clases fundamentales
+Qué son clases no fundamentales
+Cuáles son clases no fundamentales
+Qué significa clases no fundamentales
+Qué quiere decir clases no fundamentales
+Qué son los intereses inmediatos
+Cuáles son los intereses inmediatos
+Qué significa intereses inmediatos
+Qué quiere decir intereses inmediatos
+Qué son los intereses estratégicos
+Cuáles son los intereses estratégicos
+Qué es el Partido Conservador Colombiano
+Qué significa Partido Conservador Colombiano
+Qué quiere decir Partido Conservador Colombiano
+Qué es el Partido Cambio Radical
+Qué significa Partido Cambio Radical
+Qué quiere decir  Partido Cambio Radical
+Qué es el Partido Social de Unidad Nacional
+Qué significa Partido Social de Unidad Nacional
+Qué quiere decir Partido Social de Unidad Nacional
+Qué es Partido Centro Democrático
+Qué significa Partido Centro Democrático
+Qué quiere decir Partido Centro Democrático
+Qué es Partido Alianza Verde
+Qué significa Partido Alianza Verde
+Qué quiere decir Partido Alianza Verde
+Qué es Movimiento Autoridades Indígenas de Colombia
+Qué significa Movimiento Autoridades Indígenas de Colombia
+Qué quiere decir Movimiento Autoridades Indígenas de Colombia
+Qué es Partido Alianza Social Independiente ASI
+Qué significa Partido Alianza Social Independiente ASI
+Qué quiere decir Partido Alianza Social Independiente ASI
+Qué es el Partido Polo Democrático Alternativo
+Qué significa Partido Polo Democrático Alternativo
+Qué quiere decir Partido Polo Democrático Alternativo
+que es ministerio de ciencia y tecnología
+ministerio de ciencia y tecnología 
+ciencia y tecnología
+la ciencia y tecnología es
+que es el ministerio de industria y comercio
+industria y comercio
+el presidente tiene un periodo de
+el periodo del presidente
+quien dirige la fuerzas armadas
+dirige fuerza armada
+fuerza armada la dirige
+dirige fuerza armada
+furza armada dirige
+la fuerza armadas la dirige
+cuando el vicepresidente reemplaza
+vicepresidente reemplaza
+cuando sube de cargo el vicepresidente
+sube de cargo el vicepresidente
+en que caso apoya el vicepresidente
+cuando reemplaza el vicepresidente
+que es un ministerio del interior 
+ministerio del interior 
+ministerio del interior es
+es ministerio del interior
+que poder tiene el ministerio del interior
+que hace el ministerio del interior
+que es presidencia
+presidencia
+la presidencia es 
+presidencia es 
+la presidencia se define como
+presidencia se define
+otra definición de presidencia
+definición presidencia
+ministerio de educación
+que formula el ministerio de educación
+dane
+dane es
+el dane es
+es el dane
+que es el dane
+dane que es
+departamento administrativo para la prosperidad social
+departamento para la prosperidad social
+departamento de prosperidad social
+el departamento de prosperidad social
+prosperidad social 
+prosperidad social que
+de que se encarga el departamento de prosperidad social
+foco de prosperidad social 
+ministerio de tecnologías de la información y las comunicaciones
+el mintic es
+mintic ayuda a que 
+mintic se define 
+definición mintic
+mintic
+fuerzas militares
+las fuerzas militares
+las fuerzas militares
+de que encargan las fuerzas militares
+que defienden las fuerzas militares
+función de las fueras militares
+que es el ministerio de ambiente
+el ministerio de ambiente se encarga 
+ministerio de ambiente
+el ministerio de ambiente
+la denuncia tiene costo.
+cuanto cuesta una denuncia.
+una denuncia cuanto cuesta.
+costo de la denuncia.
+cuál es el costo de una denuncia.
+costo de denuncia.
+para la denuncia hay algún costo.
+que se requiere para denunciar.
+requerimiento para denunciar.
+interponer una denuncia requiere abogado.
+requiere abogado denunciar.
+denunciar requiere abogado.
+qué es una conciliación.
+una conciliación es.
+es una conciliación.
+para qué una conciliación.
+por qué una conciliación.
+una conciliación.
+qué hace una conciliación.
+hace una conciliación.
+una conciliación qué es.
+qué es un conciliador.
+qué hace un conciliador.
+es un conciliador.
+un conciliador qué es.
+conciliador.
+para qué un conciliador.
+por qué es un conciliador.
+qué es una constitución política.
+es una constitución política.
+por qué es una constitución política.
+qué es una constitución política.
+qué es una constitución política.
+la constitución política.
+la constitución política es.
+es la constitución política.
+constitución política es una.
+una constitución política es.
+constitución política.
+una constitución política.
+constitución política es.
+que nombres ha tenido colombia.
+nombres ha tenido colombia.
+nombres que ha tenido colombia.
+ha tenido colombia que nombres.
+que nombres ha tenido colombia.
+ha tenido colombia nombres.
+que es una reforma constitucional.
+es una reforma constitucional.
+una reforma constitucional qué es.
+una reforma constitucional es.
+reforma constitucional.
+reforma constitucional qué es.
+reforma constitucional es.
+la reforma constitucional.
+la reforma constitucional es.
+la reforma constitucional qué es.
+quienes pueden reformar la constitución.
+pueden reformar la constitución.
+reformar la constitución quienes pueden .
+reformar la constitución pueden.
+reformar la constitución.
+reformar la constitución pueden quienes.
+qué es un referendo.
+es un referendo.
+un referendo qué es.
+un referendo es.
+qué hace un referendo.
+un referendo hace.
+hace un referendo.
+cuáles son formas de participación democrática.
+son formas de participación democrática.
+formas de participación democrática cuáles son.
+formas de participación democrática son cuáles.
+qué formas de participación democrática hay.
+formas de participación democrática hay.
+algunas formas de participación democrática.
+algunas formas de participación democrática son.
+cuáles son las ramas del poder público.
+ramas del poder público.
+las ramas del poder público cuáles son.
+las ramas del poder público.
+ramas del poder público cuáles son.
+que ramas del poder público hay.
+ramas del poder público que hay.
+las ramas del poder público que hay.
+como se tiene la nacionalidad colombiana.
+la nacionalidad colombiana.
+nacionalidad colombiana.
+como es la nacionalidad colombiana.
+la nacionalidad colombiana como se tiene.
+nacionalidad colombiana se tiene.
+se tiene la nacionalidad colombiana.
+se tiene nacionalidad colombiana.
+la nacionalidad colombiana se tiene.
+nacionalidad colombiana se tiene.
+dónde se presenta un proyecto de ley.
+se presenta un proyecto de ley.
+presenta un proyecto de ley.
+un proyecto de ley dónde se presenta .
+proyecto de ley dónde se presenta.
+proyecto de ley dónde se presenta en.
+proyecto de ley dónde presenta en.
+proyecto de ley dónde es presentado en.
+proyecto de ley dónde es presentado.
+qué es un proyecto de ley.
+es un proyecto de ley.
+un proyecto de ley.
+proyecto de ley.
+proyecto de ley qué es.
+un proyecto de ley qué es.
+proyecto de ley es.
+un proyecto de ley es.
+que es una reforma estatutaria.
+es una reforma estatutaria.
+que es la reforma estatutaria.
+es la reforma estatutaria.
+que es una reforma estatutaria.
+una reforma estatutaria que es.
+que es la reforma estatutaria.
+la reforma estatutaria que es.
+una reforma estatutaria es.
+que es una reforma estatutaria.
+que es la reforma estatutaria.
+qué es una plenaria.
+es una plenaria.
+una plenaria.
+qué es la plenaria.
+es la plenaria.
+la plenaria.
+una plenaria qué es.
+la plenaria qué es.
+una plenaria es.
+la plenaria es.
+cuántas comisiones tiene la cámara de representantes.
+cuántas comisiones la cámara de representantes tiene.
+comisiones tiene la cámara de representantes.
+la cámara de representantes cuantas comisiones tiene.
+la cámara de representantes tiene cuantas comisiones.
+comisiones de la cámara de representantes.
+las comisiones de la cámara de representantes.
+comisiones de la cámara de representantes son.
+las comisiones de la cámara de representantes son.
+qué es el sistema pensional.
+es el sistema pensional.
+el sistema pensional.
+el sistema pensional qué es.
+el sistema pensional es.
+el sistema pensional es qué.
+sistema pensional.
+qué es un sistema pensional.
+cuáles son los regímenes pensionales.
+son los regímenes pensionales.
+los regímenes pensionales cuáles son.
+los regímenes pensionales son.
+regímenes pensionales cuáles son.
+regímenes pensionales son.
+qué regímenes pensionales hay.
+regímenes pensionales que hay.
+regímenes pensionales.
+los regímenes pensionales.
+qué es extradición.
+es extradición.
+la extradición qué es.
+la extradición es.
+qué es la extradición.
+es la extradición.
+la extradición.
+extradición.
+extradición qué es.
+extradición es.
+qué es el derecho de petición.
+es el derecho de petición.
+derecho de petición.
+el derecho de petición es .
+el derecho de petición es qué.
+derecho de petición es .
+derecho de petición es qué.
+derecho de petición qué es .
+es la acción de tutela.
+qué es la acción de tutela.
+la acción de tutela qué es .
+la acción de tutela es.
+acción de tutela qué es.
+es acción de tutela.
+qué es acción de tutela.
+acción de tutela es qué.
